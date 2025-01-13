@@ -1,0 +1,494 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|c:\\users\\admin\\desktop\\downloads\\dotnet-quanlybenhvien-main\\ch\u01B0\u01A1ng tr\u00ECnh\\project_qlbv\\project_qlbv\\rpttoathuoc.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|solutionrelative:project_qlbv\\rpttoathuoc.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\project_qlbv\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|solutionrelative:project_qlbv\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\project_qlbv\\thuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|solutionrelative:project_qlbv\\thuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\project_qlbv\\dangkykham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|solutionrelative:project_qlbv\\dangkykham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\project_qlbv\\thuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|solutionrelative:project_qlbv\\thuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\project_qlbv\\_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|solutionrelative:project_qlbv\\_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\project_qlbv\\_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|solutionrelative:project_qlbv\\_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\project_qlbv\\dangkykham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|solutionrelative:project_qlbv\\dangkykham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\project_qlbv\\chuandoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|solutionrelative:project_qlbv\\chuandoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\project_qlbv\\chuandoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|solutionrelative:project_qlbv\\chuandoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\project_qlbv\\phieukhambenh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|solutionrelative:project_qlbv\\phieukhambenh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\project_qlbv\\toathuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|solutionrelative:project_qlbv\\toathuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\project_qlbv\\baocaobenh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|solutionrelative:project_qlbv\\baocaobenh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C32737-0DBF-4872-B4C0-D830F78D6CD4}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\dal\\dal_phieukhambenh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C32737-0DBF-4872-B4C0-D830F78D6CD4}|DAL\\DAL.csproj|solutionrelative:dal\\dal_phieukhambenh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2132711C-2621-4B57-A166-E61C13E40598}|ET\\ET.csproj|C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\et\\et_phieukhambenh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2132711C-2621-4B57-A166-E61C13E40598}|ET\\ET.csproj|solutionrelative:et\\et_phieukhambenh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2132711C-2621-4B57-A166-E61C13E40598}|ET\\ET.csproj|C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\et\\et_theodoisuckhoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2132711C-2621-4B57-A166-E61C13E40598}|ET\\ET.csproj|solutionrelative:et\\et_theodoisuckhoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2132711C-2621-4B57-A166-E61C13E40598}|ET\\ET.csproj|C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\et\\et_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2132711C-2621-4B57-A166-E61C13E40598}|ET\\ET.csproj|solutionrelative:et\\et_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2132711C-2621-4B57-A166-E61C13E40598}|ET\\ET.csproj|C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\et\\et_chuandoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2132711C-2621-4B57-A166-E61C13E40598}|ET\\ET.csproj|solutionrelative:et\\et_chuandoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2132711C-2621-4B57-A166-E61C13E40598}|ET\\ET.csproj|C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\et\\et_benhly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2132711C-2621-4B57-A166-E61C13E40598}|ET\\ET.csproj|solutionrelative:et\\et_benhly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\project_qlbv\\ttbenhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|solutionrelative:project_qlbv\\ttbenhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\project_qlbv\\ttbenhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|solutionrelative:project_qlbv\\ttbenhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\project_qlbv\\inhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|solutionrelative:project_qlbv\\inhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\project_qlbv\\ttnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|solutionrelative:project_qlbv\\ttnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\project_qlbv\\ttnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|solutionrelative:project_qlbv\\ttnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\project_qlbv\\benhly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|solutionrelative:project_qlbv\\benhly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\project_qlbv\\baohiemyte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|solutionrelative:project_qlbv\\baohiemyte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\project_qlbv\\phieukhambenh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|solutionrelative:project_qlbv\\phieukhambenh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\project_qlbv\\rptthongkedoanhthutheonam.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{56E809A0-F019-4EF0-856C-57493205DA87}|Project_QLBV\\Project_QLBV.csproj|solutionrelative:project_qlbv\\rptthongkedoanhthutheonam.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5462A7C9-9C64-4711-ACB5-41257423C0F3}|BUS\\BUS.csproj|C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\bus\\bus_phieukhambenh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5462A7C9-9C64-4711-ACB5-41257423C0F3}|BUS\\BUS.csproj|solutionrelative:bus\\bus_phieukhambenh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rptToaThuoc.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\rptToaThuoc.rdlc",
+              "RelativeDocumentMoniker": "Project_QLBV\\rptToaThuoc.rdlc",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\rptToaThuoc.rdlc [Design]",
+              "RelativeToolTip": "Project_QLBV\\rptToaThuoc.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-11-21T09:31:03.653Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\HoaDon.cs",
+              "RelativeDocumentMoniker": "Project_QLBV\\HoaDon.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\HoaDon.cs [Design]",
+              "RelativeToolTip": "Project_QLBV\\HoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:29:42.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_login.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\_login.cs",
+              "RelativeDocumentMoniker": "Project_QLBV\\_login.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\_login.cs*",
+              "RelativeToolTip": "Project_QLBV\\_login.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:54:44.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChuanDoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\ChuanDoan.cs",
+              "RelativeDocumentMoniker": "Project_QLBV\\ChuanDoan.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\ChuanDoan.cs [Design]",
+              "RelativeToolTip": "Project_QLBV\\ChuanDoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T02:44:06.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\_login.cs",
+              "RelativeDocumentMoniker": "Project_QLBV\\_login.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\_login.cs [Design]*",
+              "RelativeToolTip": "Project_QLBV\\_login.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:17:19.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaoCaoBenh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\BaoCaoBenh.cs",
+              "RelativeDocumentMoniker": "Project_QLBV\\BaoCaoBenh.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\BaoCaoBenh.cs [Design]",
+              "RelativeToolTip": "Project_QLBV\\BaoCaoBenh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:07:09.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DangKyKham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\DangKyKham.cs",
+              "RelativeDocumentMoniker": "Project_QLBV\\DangKyKham.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\DangKyKham.cs [Design]",
+              "RelativeToolTip": "Project_QLBV\\DangKyKham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:44:34.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DangKyKham.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\DangKyKham.cs",
+              "RelativeDocumentMoniker": "Project_QLBV\\DangKyKham.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\DangKyKham.cs",
+              "RelativeToolTip": "Project_QLBV\\DangKyKham.cs",
+              "ViewState": "AgIAADkBAAAAAAAAAAAnwEQBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:44:37.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Thuoc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\Thuoc.cs",
+              "RelativeDocumentMoniker": "Project_QLBV\\Thuoc.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\Thuoc.cs [Design]",
+              "RelativeToolTip": "Project_QLBV\\Thuoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:51:58.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Thuoc.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\Thuoc.cs",
+              "RelativeDocumentMoniker": "Project_QLBV\\Thuoc.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\Thuoc.cs",
+              "RelativeToolTip": "Project_QLBV\\Thuoc.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAtwMIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:52:13.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChuanDoan.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\ChuanDoan.cs",
+              "RelativeDocumentMoniker": "Project_QLBV\\ChuanDoan.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\ChuanDoan.cs",
+              "RelativeToolTip": "Project_QLBV\\ChuanDoan.cs",
+              "ViewState": "AgIAACgBAAAAAAAAAAAswCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T02:44:11.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PhieuKhamBenh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\PhieuKhamBenh.cs",
+              "RelativeDocumentMoniker": "Project_QLBV\\PhieuKhamBenh.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\PhieuKhamBenh.cs [Design]",
+              "RelativeToolTip": "Project_QLBV\\PhieuKhamBenh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:04:22.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ToaThuoc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\ToaThuoc.cs",
+              "RelativeDocumentMoniker": "Project_QLBV\\ToaThuoc.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\ToaThuoc.cs [Design]",
+              "RelativeToolTip": "Project_QLBV\\ToaThuoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:52:03.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BaoHiemYTe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\BaoHiemYTe.cs",
+              "RelativeDocumentMoniker": "Project_QLBV\\BaoHiemYTe.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\BaoHiemYTe.cs [Design]",
+              "RelativeToolTip": "Project_QLBV\\BaoHiemYTe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:07:12.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BenhLy.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\BenhLy.cs",
+              "RelativeDocumentMoniker": "Project_QLBV\\BenhLy.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\BenhLy.cs [Design]",
+              "RelativeToolTip": "Project_QLBV\\BenhLy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:07:15.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ET_PhieuKhamBenh.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\ET\\ET_PhieuKhamBenh.cs",
+              "RelativeDocumentMoniker": "ET\\ET_PhieuKhamBenh.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\ET\\ET_PhieuKhamBenh.cs",
+              "RelativeToolTip": "ET\\ET_PhieuKhamBenh.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:28:36.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DAL_PhieuKhamBenh.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\DAL\\DAL_PhieuKhamBenh.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_PhieuKhamBenh.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\DAL\\DAL_PhieuKhamBenh.cs",
+              "RelativeToolTip": "DAL\\DAL_PhieuKhamBenh.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAwwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:05:16.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ET_BenhLy.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\ET\\ET_BenhLy.cs",
+              "RelativeDocumentMoniker": "ET\\ET_BenhLy.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\ET\\ET_BenhLy.cs",
+              "RelativeToolTip": "ET\\ET_BenhLy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:24:51.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ET_ChuanDoan.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\ET\\ET_ChuanDoan.cs",
+              "RelativeDocumentMoniker": "ET\\ET_ChuanDoan.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\ET\\ET_ChuanDoan.cs",
+              "RelativeToolTip": "ET\\ET_ChuanDoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:25:27.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ET_HoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\ET\\ET_HoaDon.cs",
+              "RelativeDocumentMoniker": "ET\\ET_HoaDon.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\ET\\ET_HoaDon.cs",
+              "RelativeToolTip": "ET\\ET_HoaDon.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:25:34.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ET_TheoDoiSucKhoe.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\ET\\ET_TheoDoiSucKhoe.cs",
+              "RelativeDocumentMoniker": "ET\\ET_TheoDoiSucKhoe.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\ET\\ET_TheoDoiSucKhoe.cs",
+              "RelativeToolTip": "ET\\ET_TheoDoiSucKhoe.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:26:12.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\InHoaDon.cs",
+              "RelativeDocumentMoniker": "Project_QLBV\\InHoaDon.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\InHoaDon.cs [Design]",
+              "RelativeToolTip": "Project_QLBV\\InHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:07:00.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TTNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\TTNhanVien.cs",
+              "RelativeDocumentMoniker": "Project_QLBV\\TTNhanVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\TTNhanVien.cs",
+              "RelativeToolTip": "Project_QLBV\\TTNhanVien.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAvwNYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:45:50.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TTNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\TTNhanVien.cs",
+              "RelativeDocumentMoniker": "Project_QLBV\\TTNhanVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\TTNhanVien.cs [Design]",
+              "RelativeToolTip": "Project_QLBV\\TTNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:45:43.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TTBenhNhan.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\TTBenhNhan.cs",
+              "RelativeDocumentMoniker": "Project_QLBV\\TTBenhNhan.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\TTBenhNhan.cs",
+              "RelativeToolTip": "Project_QLBV\\TTBenhNhan.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:05:08.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TTBenhNhan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\TTBenhNhan.cs",
+              "RelativeDocumentMoniker": "Project_QLBV\\TTBenhNhan.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\TTBenhNhan.cs [Design]*",
+              "RelativeToolTip": "Project_QLBV\\TTBenhNhan.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:05:01.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "rptThongKeDoanhThuTheoNam.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\rptThongKeDoanhThuTheoNam.rdlc",
+              "RelativeDocumentMoniker": "Project_QLBV\\rptThongKeDoanhThuTheoNam.rdlc",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\rptThongKeDoanhThuTheoNam.rdlc [Design]",
+              "RelativeToolTip": "Project_QLBV\\rptThongKeDoanhThuTheoNam.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-10-19T17:29:25.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BUS_PhieuKhamBenh.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\BUS\\BUS_PhieuKhamBenh.cs",
+              "RelativeDocumentMoniker": "BUS\\BUS_PhieuKhamBenh.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\BUS\\BUS_PhieuKhamBenh.cs",
+              "RelativeToolTip": "BUS\\BUS_PhieuKhamBenh.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAwwGkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:06:09.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PhieuKhamBenh.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\PhieuKhamBenh.cs",
+              "RelativeDocumentMoniker": "Project_QLBV\\PhieuKhamBenh.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\downloads\\dotNet-QuanLyBenhVien-main\\Ch\u01B0\u01A1ng tr\u00ECnh\\Project_QLBV\\Project_QLBV\\PhieuKhamBenh.cs",
+              "RelativeToolTip": "Project_QLBV\\PhieuKhamBenh.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAqwLIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:04:25.737Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\BUS\bin\Debug\BUS.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\BUS\bin\Debug\BUS.pdb
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\BUS\bin\Debug\DAL.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\BUS\bin\Debug\ET.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\BUS\bin\Debug\DAL.pdb
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\BUS\bin\Debug\DAL.dll.config
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\BUS\bin\Debug\ET.pdb
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.csproj.Up2Date
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.pdb
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\BUS\bin\Debug\BUS.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\BUS\bin\Debug\BUS.pdb
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\BUS\bin\Debug\DAL.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\BUS\bin\Debug\ET.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\BUS\bin\Debug\DAL.pdb
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\BUS\bin\Debug\DAL.dll.config
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\BUS\bin\Debug\ET.pdb
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\BUS\obj\Debug\BUS.csproj.Up2Date
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\BUS\obj\Debug\BUS.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\BUS\obj\Debug\BUS.pdb
+T:\IV .NET\.NET PJect\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+T:\IV .NET\.NET PJect\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+T:\IV .NET\.NET PJect\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+T:\IV .NET\.NET PJect\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+T:\IV .NET\.NET PJect\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\BUS.dll
+T:\IV .NET\.NET PJect\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\BUS.pdb
+T:\IV .NET\.NET PJect\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\DAL.dll
+T:\IV .NET\.NET PJect\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\ET.dll
+T:\IV .NET\.NET PJect\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\DAL.pdb
+T:\IV .NET\.NET PJect\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\DAL.dll.config
+T:\IV .NET\.NET PJect\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\ET.pdb
+T:\IV .NET\.NET PJect\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+T:\IV .NET\.NET PJect\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+T:\IV .NET\.NET PJect\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.csproj.Up2Date
+T:\IV .NET\.NET PJect\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.dll
+T:\IV .NET\.NET PJect\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.pdb
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\BUS.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\BUS.pdb
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\DAL.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\ET.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\DAL.pdb
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\DAL.dll.config
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\ET.pdb
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.pdb
+T:\IV LogNet\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+T:\IV LogNet\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+T:\IV LogNet\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+T:\IV LogNet\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+T:\IV LogNet\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\BUS.dll
+T:\IV LogNet\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\BUS.pdb
+T:\IV LogNet\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\DAL.dll
+T:\IV LogNet\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\ET.dll
+T:\IV LogNet\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\DAL.pdb
+T:\IV LogNet\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\DAL.dll.config
+T:\IV LogNet\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\ET.pdb
+T:\IV LogNet\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+T:\IV LogNet\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+T:\IV LogNet\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.csproj.Up2Date
+T:\IV LogNet\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.dll
+T:\IV LogNet\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\ET.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\DAL.dll.config
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\ET.pdb
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\ET.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\DAL.dll.config
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\bin\Debug\ET.pdb
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\BUS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\BUS\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\BUS\bin\Debug\ET.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\BUS\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\BUS\bin\Debug\DAL.dll.config
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\BUS\bin\Debug\ET.pdb
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\BUS\obj\Debug\BUS.pdb

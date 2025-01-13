@@ -1,0 +1,352 @@
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\ET.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\ET.pdb
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\EnvDTE.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\stdole.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\obj\Debug\ET.csproj.AssemblyReference.cache
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\obj\Debug\ET.csproj.CoreCompileInputs.cache
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\obj\Debug\ET.csproj.Up2Date
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\obj\Debug\ET.dll
+E:\btapcacmon\Nhóm 19_Quản lý bệnh viện\Chương trình\Project_QLBV\ET\obj\Debug\ET.pdb
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\ET.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\ET.pdb
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.Common.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.Design.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\Microsoft.SqlServer.Types.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\EnvDTE.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\obj\Debug\ET.csproj.AssemblyReference.cache
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\obj\Debug\ET.csproj.CoreCompileInputs.cache
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\obj\Debug\ET.csproj.Up2Date
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\obj\Debug\ET.dll
+T:\IV .NET\.NET PJect\New folder\Project_QLBV\ET\obj\Debug\ET.pdb
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ET.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ET.pdb
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\EnvDTE.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\stdole.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\obj\Debug\ET.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\obj\Debug\ET.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\obj\Debug\ET.csproj.CopyComplete
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\obj\Debug\ET.dll
+C:\Users\Administrator\Downloads\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\obj\Debug\ET.pdb
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ET.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ET.pdb
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\stdole.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\obj\Debug\ET.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\obj\Debug\ET.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\obj\Debug\ET.csproj.Up2Date
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\obj\Debug\ET.dll
+C:\Users\Admin\Downloads\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\obj\Debug\ET.pdb
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ET.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ET.pdb
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\stdole.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\obj\Debug\ET.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\obj\Debug\ET.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\obj\Debug\ET.csproj.Up2Date
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\obj\Debug\ET.dll
+C:\Users\Admin\Downloads\Project net\Nhom19_QuanLyBenhVien\Nhom19_QuanLyBenhVien\Chương trình\Project_QLBV\ET\obj\Debug\ET.pdb
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\ET.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\ET.pdb
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\obj\Debug\ET.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\obj\Debug\ET.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\obj\Debug\ET.csproj.Up2Date
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\obj\Debug\ET.dll
+C:\Users\Admin\Desktop\downloads\dotNet-QuanLyBenhVien-main\Chương trình\Project_QLBV\ET\obj\Debug\ET.pdb

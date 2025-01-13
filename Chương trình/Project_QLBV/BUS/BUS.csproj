@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5462A7C9-9C64-4711-ACB5-41257423C0F3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BUS</RootNamespace>
+    <AssemblyName>BUS</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BUS_BangGia.cs" />
+    <Compile Include="BUS_BenhLy.cs" />
+    <Compile Include="BUS_BenhNhan.cs" />
+    <Compile Include="BUS_BHYT.cs" />
+    <Compile Include="BUS_ChuanDoan.cs" />
+    <Compile Include="BUS_ChucVu.cs" />
+    <Compile Include="BUS_ChuyenNganh.cs" />
+    <Compile Include="BUS_DamNhanChuyenMon.cs" />
+    <Compile Include="BUS_DangKyKham.cs" />
+    <Compile Include="BUS_GiuongBenh.cs" />
+    <Compile Include="BUS_HoaDon.cs" />
+    <Compile Include="BUS_HoSoBenhAn.cs" />
+    <Compile Include="BUS_Khoa.cs" />
+    <Compile Include="BUS_LoaiBenhAn.cs" />
+    <Compile Include="BUS_LoaiKham.cs" />
+    <Compile Include="BUS_LoaiXNPT.cs" />
+    <Compile Include="BUS_NhanVien.cs" />
+    <Compile Include="BUS_PhanGiuong.cs" />
+    <Compile Include="BUS_PhieuKhamBenh.cs" />
+    <Compile Include="BUS_PhongKham.cs" />
+    <Compile Include="BUS_TheoDoiSucKhoe.cs" />
+    <Compile Include="BUS_Thuoc.cs" />
+    <Compile Include="BUS_ToaThuoc.cs" />
+    <Compile Include="BUS_TongDoanhThu.cs" />
+    <Compile Include="BUS_XetNghiemPhauThuat.cs" />
+    <Compile Include="BUS__BaoCaoBenh.cs" />
+    <Compile Include="BUS__LayThongKeBenhCuThe.cs" />
+    <Compile Include="BUS__ThongKeDoanhThu.cs" />
+    <Compile Include="BUS__ThongKeMatDoKhamCuaBN.cs" />
+    <Compile Include="BUS__TimKhiemToaThuoc.cs" />
+    <Compile Include="BUS__TimKiemBenhNhanNoiTru.cs" />
+    <Compile Include="BUS__TimKiemHoaDon.cs" />
+    <Compile Include="BUS__TimKiemLichSuChuaTri.cs" />
+    <Compile Include="BUS__XuatDSBenhNhanNoiTru.cs" />
+    <Compile Include="BUS__XuatDSKhamTheoTime.cs" />
+    <Compile Include="BUS__XuatDSLichSuKham.cs" />
+    <Compile Include="BUS__XuatHoaDon.cs" />
+    <Compile Include="Connection_BUS.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{42c32737-0dbf-4872-b4c0-d830f78d6cd4}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ET\ET.csproj">
+      <Project>{2132711c-2621-4b57-a166-e61c13e40598}</Project>
+      <Name>ET</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
